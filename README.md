@@ -1,1 +1,1 @@
-# Awesome-CAD-Generation-
+# Official Repository for Survey on CAD Generation
